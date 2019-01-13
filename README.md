@@ -9,8 +9,7 @@ Visit 5 websites. For each one, document or comment on the following:
 * How do you feel about the site? Is it useful? Is it interesting? Is it beautiful?
 * What is one thing you would change about this site?
 
-Your responses may be point form, or one or two paragraphs about each site as long as you cover the points listed abo\
-ve for each.
+Your responses may be point form, or 1–2 paragraphs about each site as long as you cover the points listed above for each.
 
 ---
 ## Site 1
